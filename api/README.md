@@ -1,5 +1,18 @@
 # Code-Meli Checker API by Flask
-## Docker:
+## Setup:
+Change Directory to api directory
+```
+cd api
+```
+Activate Virtual Environment
+```
+source ./bin/activate
+```
+Install Requirements:
+```
+pip install -r requirements.txt
+```
+## Or Use Docker:
 <a href="https://hub.docker.com/r/xfull/python-docker">Docker Hub</a>
 ```
 docker pull xfull/python-docker
