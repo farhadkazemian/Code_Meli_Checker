@@ -11,7 +11,7 @@ Iran Residential ID Number Checker
 
 <body>
 	<a href="https://www.aparat.com/v/FyjSV/">مشاهده ویدیو در آپارات</a><br>
-	<a href="https://app.swaggerhub.com/apis-docs/xfull/id_validator/1.0.0">API Documents</a><br>
+	<a href="https://app.swaggerhub.com/apis-docs/xfull/id_validator/1.0.0">API Documentation</a><br>
 	<a href="https://hub.docker.com/r/xfull/python-docker">Docker Hub</a>
 <div align="center">
   
