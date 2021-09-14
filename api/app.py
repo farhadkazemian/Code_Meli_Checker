@@ -1,5 +1,4 @@
 import json
-from unittest import result
 from flask import Flask
 app = Flask(__name__)
 
